@@ -1,5 +1,5 @@
 # Researcher
-
+![Alt Text](headshot.jpg)
 ### About Me 
 Hello! I am an experienced Researcher and Biological professional with proven expertise in Biology and Biological Commercialization.
 
