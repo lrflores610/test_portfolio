@@ -17,7 +17,23 @@ Loyola University, MD
 
 #### Data Analysis in Excel: Spreadsheets to Calculate and Visualize Trends
  - image
- - Report
+Initial Project Idea:
+I wanted to make a well-functioning spreadsheet that could organize, calculate, and graph data trends for a small brand with limited inventory.
+
+Tools I used:
+I used Microsoft Excel to build the spreadsheet, format tables, create formulas for automatic calculations, and generate visual graphs.
+
+Challenges I Faced:
+One challenge I faced while doing this project was setting up the correct formulas and making sure everything ran smoothly. I was able to resolve the issue by testing different formulas and using Excel's built-in formula auditing tools.
+
+Other resources:
+I also watched a few videos about how to navigate through Excel and sought help from fellow classmates.
+
+Result:
+I was able to create a spreadsheet that provided a simplified data analysis of items sold by the owner as well as how much inventory was in stock.
+
+Summary:
+This project allowed me to use Excel to format and visualize, organize, and identify trends within data. I made sure to make the graphs, data, and formulas to be near and easy to read.
 
 ***
 #### Python: Writing Simple Programs for Automation or Calculation
