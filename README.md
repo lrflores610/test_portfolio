@@ -16,7 +16,8 @@ Loyola University, MD
 ### Projects
 
 #### Data Analysis in Excel: Spreadsheets to Calculate and Visualize Trends
- - image
+![Alt Text](Phone_Charms.png)
+
 Initial Project Idea:
 I wanted to make a well-functioning spreadsheet that could organize, calculate, and graph data trends for a small brand with limited inventory.
 
