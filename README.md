@@ -38,7 +38,9 @@ This project allowed me to use Excel to format and visualize, organize, and iden
 
 ***
 #### Python: Writing Simple Programs for Automation or Calculation
- - image
+![Alt Text](python.png)
+![Alt Text](python_two.jpg)
+
  - write up
 
 ***
