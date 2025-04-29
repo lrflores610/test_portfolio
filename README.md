@@ -26,5 +26,6 @@ Loyola University, MD
 
 ***
 #### Apporto Virtual Lab: Microsoft Access 2019
- - image
+![Alt Text](Customer_Table_Screenshot.png)
+![Alt Text](Items_Table_Screenshot.png)
  - write up
