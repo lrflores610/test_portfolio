@@ -15,16 +15,16 @@ Loyola University, MD
 
 ### Projects
 
-#### Project 1 Title
+#### Data Analysis in Excel: Spreadsheets to Calculate and Visualize Trends
  - image
  - Report
 
 ***
-#### Project 2 Title
+#### Python: Writing Simple Programs for Automation or Calculation
  - image
  - write up
 
 ***
-#### Project 3 Title
+#### Apporto Virtual Lab: Microsoft Access 2019
  - image
  - write up
