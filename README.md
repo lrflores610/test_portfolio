@@ -41,10 +41,44 @@ This project allowed me to use Excel to format and visualize, organize, and iden
 ![Alt Text](python.png)
 ![Alt Text](python_two.jpg)
 
- - write up
+Initial Project Idea:
+I wanted to write a basic Python program that could easily and automatically perform calculations and organize data, more specifically with my course grades.
+
+Tools I used:
+I used Python to write, test, and run my program.
+
+Challenges I Faced:
+One challenge I faced while doing this project was having to make sure my code was set up properly without any errors. If errors were to occur, I would go back to my code to try and resolve/debug the issue.
+
+Other resources:
+I also watched a few videos about Python, getting used to all the vocabulary needed to use it.
+
+Result:
+I was able to create a functional Python script that automated my course grades.
+
+Summary:
+This project allowed me to write my own program within Python. I was able to make a course grade calculator that was simple, yet very effective. It helped grow my knowledge with my coding and software skills.
+
 
 ***
 #### Apporto Virtual Lab: Microsoft Access 2019
 ![Alt Text](Customer_Table_Screenshot.png)
 ![Alt Text](Items_Table_Screenshot.png)
- - write up
+
+Initial Project Idea:
+I wanted to make a relational database using Microsoft Access to organize, store, and query datasets.
+
+Tools I used:
+I used Microsoft Access 2019 through Apporto Virtual Lab to create tables and queries.
+
+Challenges I Faced:
+One challenge I faced while doing this project was having to make sure my tables and queries all matched up, if one letter was out of place, it would not be able to run. I made sure to carefully check every table and query so that it would run smoothly.
+
+Other resources:
+I asked fellow classmates for help when I was either confused on a certain step.
+
+Result:
+I was able to create a database with working queries that made data organization a lot easier.
+
+Summary:
+This project allowed me to show my skills in using Microsoft Access database, with setting up different tables and queries. It helped grow my organizational and dataset skills.
