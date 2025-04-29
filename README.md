@@ -7,7 +7,7 @@ With skills in data analysis, laboratory research, technical writing, and projec
 
 My detail-oriented skill set, commitment to innovation, and passion for advancing biotechnology make me a valuable asset. In my spare time, I like to read science fiction and explore nature trails.
 
-You can find me on [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/lorraine-flores-a98a5a2b3/), Twitter, or GitHub.
+You can find me on [LinkedIn](https://www.linkedin.com/in/lorraine-flores-a98a5a2b3/), Twitter, or GitHub.
 
 ### Education 
 BSc in Biohealth - Biological Commericalization
